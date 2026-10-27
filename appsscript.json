@@ -1,0 +1,10 @@
+{
+  "timeZone": "YUOR_TIME_ZONE",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/forms.currentonly",
+    "https://www.googleapis.com/auth/script.container.ui"
+  ]
+}
